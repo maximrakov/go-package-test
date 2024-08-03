@@ -1,5 +1,5 @@
 package abobus
 
 func uiui() int {
- retun 1337
+	return 1337
 }
