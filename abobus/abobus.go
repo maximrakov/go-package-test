@@ -1,5 +1,5 @@
 package abobus
 
-func uiui() int {
+func uiui() {
 	return 1337
 }
