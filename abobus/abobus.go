@@ -1,5 +1,5 @@
 package abobus
 
-func plusPlus(a, b, c int) int {
+func PlusPlus(a, b, c int) int {
 	return a + b + c
 }
