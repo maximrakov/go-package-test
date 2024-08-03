@@ -1,5 +1,5 @@
 package abobus
 
-func uiui() {
-	return 1337
+func plusPlus(a, b, c int) int {
+	return a + b + c
 }
